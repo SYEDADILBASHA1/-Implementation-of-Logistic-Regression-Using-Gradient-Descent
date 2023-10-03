@@ -116,24 +116,35 @@ np.mean(predict(res.x,x)==y)
 ```
 
 ## Output:
+
+# 1.Array Value of x:
 ![1](https://github.com/SYEDADILBASHA1/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/134796157/623cb045-b0c6-45e9-8d7c-6070c5023415)
 
+# 2.Array Value of y:
 ![2](https://github.com/SYEDADILBASHA1/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/134796157/7d5cab4d-4f7e-4a7b-86d4-734c04081eed)
 
+# 3.Exam 1-score graph:
 ![3](https://github.com/SYEDADILBASHA1/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/134796157/1babb14c-7eb9-4eb7-bb25-323a9516c9ea)
 
+# 4.sigmoid function graph:
 ![4](https://github.com/SYEDADILBASHA1/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/134796157/9a7e703f-b5bf-4e19-ad8c-7941d6a193bb)
 
+# 5.X_train_grad value:
 ![5](https://github.com/SYEDADILBASHA1/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/134796157/d2e61583-4348-4d4f-8bb9-dd68b6628d70)
 
+# 6.Y_train_grad value:
 ![6](https://github.com/SYEDADILBASHA1/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/134796157/e68ba1ac-00c1-4add-9717-91d882fafa8d)
 
+# 7.print res.x:
 ![7](https://github.com/SYEDADILBASHA1/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/134796157/88189644-a6af-4e9a-bd18-9127db594689)
 
+# 8.Decision Boundary - graph for exam score:
 ![8](https://github.com/SYEDADILBASHA1/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/134796157/285d8112-4899-478f-9a24-854d2662d29a)
 
+# 9.Probability Value:
 ![9](https://github.com/SYEDADILBASHA1/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/134796157/bfb3a0da-3835-403d-8e68-e651167fbe9e)
 
+# 10.Prediction Value of mean:
 ![10](https://github.com/SYEDADILBASHA1/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/134796157/6f1cc1cb-06ea-4414-9454-7b0fc4d089c3)
 
 ## Result:
